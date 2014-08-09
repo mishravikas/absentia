@@ -226,7 +226,7 @@
 				font-size: 1.5em;
 				margin: 1em 0 2em 0;
 				line-height: 1.5em;
-				text-align: inherit;
+				text-align: left;
 			}
 			
 		footer
@@ -502,6 +502,9 @@
 					border: 0;
 				}
 			
+	p.custom_class{
+		text-align:center;
+	}		
 	/* Table */
 	
 		table
